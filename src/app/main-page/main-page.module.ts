@@ -8,10 +8,11 @@ import {MaterialModule} from '../material/material.module';
 import { AboutComponent } from './about/about.component';
 import { ProjectsComponent } from './projects/projects.component';
 import { LinksComponent } from './links/links.component';
+import { SlideInImageComponent } from './slide-in-image/slide-in-image.component';
 
 
 @NgModule({
-  declarations: [MainPageComponent, TitleComponent, AboutComponent, ProjectsComponent, LinksComponent],
+  declarations: [MainPageComponent, TitleComponent, AboutComponent, ProjectsComponent, LinksComponent, SlideInImageComponent],
   imports: [
     CommonModule,
     MainPageRoutingModule,

@@ -1,0 +1,48 @@
+.center {
+  width: 70%;
+  margin: auto;
+  padding: 10px;
+}
+.center-90 {
+  width: 90%;
+  margin: auto;
+  padding: 10px;
+}
+.center-95 {
+  width: 95%;
+  margin: auto;
+  padding: 10px;
+}
+.center-100 {
+  width: 99%;
+  margin: auto;
+  padding: 5px;
+}
+.flex-center {
+  display: flex;
+  justify-content: center;
+}
+.inline-block-center {
+  text-align: center;
+}
+
+.page-title {
+  padding: 20% 0 0 0;
+  text-align: center;
+}
+.page-title-content {
+  padding: 10% 0 0 0;
+  text-align: center;
+}
+.divider-big {
+  height: 150px;
+}
+.divider-small {
+  height: 50px;
+}
+.navbar {
+  justify-content: space-between;
+}
+.navbar-content {
+  padding-right: 1rem;
+}
